@@ -6,6 +6,8 @@ The objective of this analysis was to develop machine learning models to predict
 ---
 
 ## **Notebook Overview**
+- [*Note book link*](https://github.com/lenguyen8888/Berkeley_ML_AI_Pract_III/blob/main/prompt_III.ipynb)
+
 The analysis was conducted in a structured and organized manner, ensuring clarity and reproducibility:
 - **Data Cleaning**: 
   - Missing values were handled appropriately.
